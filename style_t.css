@@ -1,0 +1,204 @@
+body{
+    background-color: white;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+.logo{
+    margin-top: 10px;
+}
+.navabar{
+    height: 470px;
+    width: 1000px;
+    background-color: #20274d;
+    justify-content: space-between;
+    margin: 0px;
+    margin-left: 350px;
+    margin-top: -500px;
+    border-radius: 10px;
+}
+.carousel_img{
+    height:340px;
+    width: 970px;
+    margin: 15px;
+    display: flex;
+    border-radius: 10px;
+}
+.body_container h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: "Poetsen One", sans-serif;
+    color: green;
+    margin: -25px;
+}
+.section_part{
+    position: absolute;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 130px;
+    margin-top: 390px;
+
+
+}
+.link{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 800;
+    color: white;
+}
+.link:hover{
+    color: blue
+}
+.about_head{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 41%;
+    color: #164e3e;
+}
+.image_home img{
+    border-radius: 10px;
+}
+.h_p2{
+    margin-left: 25%;
+    margin-bottom: 0px;
+    margin-top: -23%;
+}
+.h_p3{
+    margin-left: 25%;
+    margin-bottom: 0px;
+}
+.places_head{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 30%;
+    color: #164e3e;
+}
+
+
+.input_container{
+    height: 200px;
+    width:  200px;
+    position: fixed;
+    background-color:white;
+    margin-left: 0PX;
+    border-radius: 10px;
+    border:5px solid black;
+}
+#login_text{
+    font-size: 20px;
+    margin-left:0px;
+    background-color: white;
+
+}
+#email_box{
+    height: 50px;
+    width: 300px;
+    margin-left: 0px;
+    border-radius: 6px;
+    border-color: black;
+}
+#password_box{
+    height: 50px;
+    width: 300px;
+    margin-left: 0px;
+    border-radius: 6px;
+    border-color: black;
+}
+#login_button{
+    height: 50px;
+    width: 300px;
+    margin-left: 0px;
+    background-color:#20274d ;
+    border-radius: 6px;
+    border-color: black;
+    color: white;
+    font-size: 20px;
+}
+#forgot_text{
+    margin-left: 50px;
+    color:green;
+    background-color: white;
+}
+.ad_text{
+    color: green;
+}
+.image_place img{
+    border-radius: 10px;
+}
+.pp1{
+    margin-left: 25%;
+    margin-top: -350px;
+}
+.pp2{
+    margin-left: 25%;
+    margin-top: -10px;
+}
+.sec_img_place{
+    margin-top: 250px;
+    border-radius: 10px;
+}
+.sp2{
+    margin-left: 25%;
+    margin-top: -350px;
+}
+.trd_img_place{
+    border-radius: 10px;
+    margin-top: 250px;
+}
+.tp3{
+    margin-left: 25%;
+    margin-top: -350px;
+}
+.form_div{
+    margin-top: 200px;
+    
+}
+.div_boxs{
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    border: 5px solid black;
+}
+.e_text{
+    margin-left: 100px;
+    color: brown;
+}
+.mob_box{
+  height: 40px;
+  width: 300px;
+  border-radius: 10px;
+}
+.emali_box{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+}
+.vh_box{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+}
+.people_box{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+}
+.sub_box{
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 100px;
+    background-color: #20274d;
+    color: white;
+}
+.navitext{
+    margin-left: 60%;
+    margin-top: -100px;
+}
+.navi_div{
+    margin-left: 47%;
+}
